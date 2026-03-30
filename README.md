@@ -1,5 +1,5 @@
 ## Assignments
-  - [Assignment01_BirdRegEx.txt](https://github.com/BarshisLab/25sp_pcfb/blob/main/assignments/Assignment01_BirdRegEx.txt) is due by 3pm Wed, 19-Mar
+  - [Assignment01_BirdRegEx.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment01_BirdRegEx.txt) is due by 3pm Wed, 1-Apr
 
 # Practical Computing for Biologists SP26
 
