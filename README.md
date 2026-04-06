@@ -1,4 +1,7 @@
 ## Assignments
+  - [Assignment04_TextandCurlinShell.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment04_TextandCurlinShell.txt) is due by 3pm Wed, 8-Apr
+  - [Assignment03_ShellOps.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment03_ShellOps.txt) is due by 3pm Wed, 8-Apr
+  - [Assignment02_BirdRegEx.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment02_BirdRegEx.txt) is due by 3pm Mon, 6-Apr
   - [Assignment01_BirdRegEx.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment01_BirdRegEx.txt) is due by 3pm Wed, 1-Apr
 
 # Practical Computing for Biologists SP26
