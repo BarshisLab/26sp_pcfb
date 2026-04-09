@@ -64,4 +64,4 @@ under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
 License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
 ## Class Recordings
-  - [Class#01]()
+  - [Class#04](https://odu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5796862e-714b-4379-9c6a-b426016d325c)
