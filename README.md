@@ -1,4 +1,6 @@
 ## Assignments
+  - [Assignment07_BasicPython.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment07_BasicPython.txt) is due by 3pm Wed, 15-Apr
+  - [Assignment05_CurlSScript.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment05_CurlSScript.txt) is due by 3pm Mon, 13-Apr
   - [Assignment04_TextandCurlinShell.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment04_TextandCurlinShell.txt) is due by 3pm Wed, 8-Apr
   - [Assignment03_ShellOps.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment03_ShellOps.txt) is due by 3pm Wed, 8-Apr
   - [Assignment02_BirdRegEx.txt](https://github.com/BarshisLab/26sp_pcfb/blob/main/assignments/Assignment02_BirdRegEx.txt) is due by 3pm Mon, 6-Apr
@@ -65,3 +67,4 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
 ## Class Recordings
   - [Class#04](https://odu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5796862e-714b-4379-9c6a-b426016d325c)
+  - [Class#05](https://odu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=423949f9-16e1-48d7-9269-b42b0174b987)
