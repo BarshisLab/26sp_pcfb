@@ -1,0 +1,8 @@
+Task: Modify your python program from Assignment7 to:
+a- convert your string sequence from a string to a list
+b- determine the unique characters in your string and use a for loop to loop over each unique character in your string and print the % composition of that character in the string
+c- print the list as a new string separated by the following using the join function:
+	1- tabs
+	2- commas
+	3- '@''s
+Submit the script to me as FirstName_Assign8.txt (you'll need to save it as .py to run but rename to .txt to attach to email) as well as the resulting output and the string entered (in the body of your email)
