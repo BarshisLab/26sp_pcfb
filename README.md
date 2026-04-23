@@ -66,6 +66,7 @@ under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
 License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
 ## Class Recordings
+  - [Class#08](https://odu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd780e6c-c722-4389-975a-b434016a836e)
   - [Class#07](https://odu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b373a6d0-fc78-4333-8733-b432016cc73e)
   - [Class#06](https://odu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e085e288-3f48-4ce4-91ca-b42d016fb52b)
   - [Class#05](https://odu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=423949f9-16e1-48d7-9269-b42b0174b987)
